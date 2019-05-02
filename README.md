@@ -1,4 +1,4 @@
-# node-vue-checkout
+# Node vue product checkout
 How to process payments with Node.js, Vue 2 and Stripe
 
 Thanks to:
