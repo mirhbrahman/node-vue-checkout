@@ -113,7 +113,7 @@ export default {
             // fields
             name: 'John Doe',
             email: 'test@test.com',
-            specialNote: 'This is the text to put on the bundle of sticks',
+            specialNote: 'This is the text',
             address: {
                 street: '123 Something Lane',
                 city: 'San Francisco',
